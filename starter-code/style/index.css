@@ -13,3 +13,26 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+#navlinks {
+  display: flex;
+  list-style-type: none;
+}
+
+#navlinks li {
+  padding: 0px 10px;
+}
+
+#black {
+  background-color: black;
+  color: white;
+}
+
+#cowork-images {
+  object-fit: cover ;
+}
+
+hr {
+  border: 1px solid grey;
+  opacity: 0.3;
+}
